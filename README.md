@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 # startbootstrap-freelancer-vue
+Its a vue convertion of the project existing on https://github.com/BlackrockDigital/startbootstrap-agency. 
 =======
 # startbootstrap-freelancer
 
